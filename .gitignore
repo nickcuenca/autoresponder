@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env & credentials
+.env
+*.log
+
+# IDEs
+.vscode/
+.idea/
